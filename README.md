@@ -43,15 +43,6 @@
 - 📌 **사용 기술**: Python, Pandas, NumPy, Matplotlib  
 🔗 [프로젝트 링크](https://github.com/aprkal12/DataPJ)
 
-
----
-
-## 🏆 수상 및 자격증  
-- 🏅 **2024 한국정보기술학회 대학생논문경진대회 동상**  
-- 📜 **ADsP (데이터 분석 준전문가) 자격증**  
-- 📜 **TOPCIT (소프트웨어 역량 시험) 점수: 521**  
-- 📜 **리눅스마스터 2급 자격증**  
-
 ---
 
 ## 📬 연락처 & 외부 링크  
@@ -69,8 +60,6 @@
   <a href="https://github.com/aprkal12"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aprkal12&layout=compact&theme=nord&hide_border=true" /></a> 
 </p>
 
-
-
 ---
 
 ## 💻 알고리즘 문제 풀이 (백준)  
@@ -82,5 +71,3 @@
 📌 **백준 온라인 저지**: [https://www.acmicpc.net/user/aprkal12](https://www.acmicpc.net/user/aprkal12)  
 
 ---
-
-<p align="center">💡 *연구하고, 도전하고, 성장하는 개발자가 되겠습니다!* 💡</p>
