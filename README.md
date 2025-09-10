@@ -4,7 +4,7 @@
 </p>
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{aprkal12}/>
+  <img src="https://render.gitanimals.org/farms/{aprkal12}"/>
 </a>
 
 
