@@ -34,7 +34,7 @@
     <img src="https://render.gitanimals.org/farms/aprkal12" width="800" height="200"/>
   </a>
   
-  ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=aprkal12&show_icons=true&theme=vue)
-  ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aprkal12&layout=compact&theme=vue)
+  ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=aprkal12&show_icons=true&theme=moltack)
+  ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aprkal12&layout=compact&theme=moltack)
 </div>
 
