@@ -1,27 +1,37 @@
 <h1 align="center">👋 Hello! I'm Donghyun Kim.</h1>
 <p align="center">
-  My goal is to become an expert in data analysis and machine learning. | I strive for continuous growth and challenges. 🚀
+  Backend Engineer focused on scalable architecture, system stability, and infrastructure automation. 🚀
 </p>
-
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{aprkal12}"? width="1000" height="250"/>
-</a>
-
-
-## 📊 GitHub Activity Statistics  
+<h2 align="center">Connect</h2>
 <p align="center">
-  <!-- <a href="https://github.com/aprkal12"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=aprkal12&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="Donghyun's GitHub Stats" /></a> -->
-  <a href="https://github.com/aprkal12"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aprkal12&layout=compact&theme=nord&hide_border=true" /></a> 
+  <a href="mailto:ehdehd0175@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://aprkal12-6.tistory.com"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
 </p>
 
----
+<br>
 
-## 💻 Algorithm Problem Solving (Baekjoon OJ)  
+<h2 align="center">🛠️ Tech Stack</h2>
 <p align="center">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=aprkal12" alt="Baekjoon Solve Stats">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=Prisma&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=GitHub-Actions&logoColor=white"/>
 </p>
 
-⚡ **Consistently solving algorithm problems to enhance problem-solving skills!**  
-📌 **Baekjoon Online Judge Profile**: [https://www.acmicpc.net/user/aprkal12](https://www.acmicpc.net/user/aprkal12)  
+<br>
 
----
+## 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/farms/aprkal12" width="800" height="200"/>
+  </a>
+</div>
