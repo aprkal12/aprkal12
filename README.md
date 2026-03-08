@@ -17,10 +17,12 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=GitHub-Actions&logoColor=white"/>
 </p>
-<h2 align="center">Connect</h2>
+<h2 align="center">📫 Connect</h2>
 <p align="center">
-  <a href="mailto:ehdehd0175@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://aprkal12-6.tistory.com"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
+  <b>Email:</b> <code>ehdehd0175@gmail.com</code>
+</p>
+<p align="center">
+  <a href="https://aprkal12-6.tistory.com"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=tistory&logoColor=white"/></a>
 </p>
 
 <br>
